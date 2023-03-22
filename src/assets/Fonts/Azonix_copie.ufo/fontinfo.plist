@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascender</key>
+	<integer>751</integer>
+	<key>capHeight</key>
+	<integer>700</integer>
+	<key>copyright</key>
+	<string>Copyright 2018 Adobe Systems Incorporated. All rights reserved.</string>
+	<key>descender</key>
+	<integer>-257</integer>
+	<key>familyName</key>
+	<string>Azonix</string>
+	<key>openTypeHeadCreated</key>
+	<string>2018/10/18 10:15:49</string>
+	<key>openTypeHheaAscender</key>
+	<integer>751</integer>
+	<key>openTypeHheaDescender</key>
+	<integer>-257</integer>
+	<key>openTypeNameDesigner</key>
+	<string>Mixo (mixofx)</string>
+	<key>openTypeNameDesignerURL</key>
+	<string>mixofx.com</string>
+	<key>openTypeNameLicense</key>
+	<string>Free Font</string>
+	<key>openTypeNameManufacturer</key>
+	<string>mixofx.com</string>
+	<key>openTypeNameManufacturerURL</key>
+	<string>behance.net/mixofx</string>
+	<key>openTypeNamePreferredSubfamilyName</key>
+	<string>Regular</string>
+	<key>openTypeNameSampleText</key>
+	<string>Azonix Modern Font</string>
+	<key>openTypeOS2CodePageRanges</key>
+	<array>
+		<integer>0</integer>
+		<integer>1</integer>
+	</array>
+	<key>openTypeOS2Panose</key>
+	<array>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+	</array>
+	<key>openTypeOS2StrikeoutPosition</key>
+	<integer>258</integer>
+	<key>openTypeOS2StrikeoutSize</key>
+	<integer>49</integer>
+	<key>openTypeOS2Type</key>
+	<array/>
+	<key>openTypeOS2TypoAscender</key>
+	<integer>751</integer>
+	<key>openTypeOS2TypoDescender</key>
+	<integer>-257</integer>
+	<key>openTypeOS2TypoLineGap</key>
+	<integer>0</integer>
+	<key>openTypeOS2UnicodeRanges</key>
+	<array>
+		<integer>0</integer>
+		<integer>1</integer>
+		<integer>31</integer>
+		<integer>33</integer>
+	</array>
+	<key>openTypeOS2VendorID</key>
+	<string>XXXX</string>
+	<key>openTypeOS2WeightClass</key>
+	<integer>400</integer>
+	<key>openTypeOS2WidthClass</key>
+	<integer>5</integer>
+	<key>openTypeOS2WinAscent</key>
+	<integer>817</integer>
+	<key>openTypeOS2WinDescent</key>
+	<integer>183</integer>
+	<key>postscriptBlueValues</key>
+	<array>
+		<real>700.0</real>
+		<real>701.0</real>
+	</array>
+	<key>postscriptFontName</key>
+	<string>AzonixRegular</string>
+	<key>postscriptOtherBlues</key>
+	<array/>
+	<key>styleMapStyleName</key>
+	<string>regular</string>
+	<key>styleName</key>
+	<string>Regular</string>
+	<key>trademark</key>
+	<string>Please refer to the Copyright section for the font trademark attribution notices.</string>
+	<key>unitsPerEm</key>
+	<integer>1000</integer>
+	<key>versionMajor</key>
+	<integer>1</integer>
+	<key>versionMinor</key>
+	<integer>0</integer>
+	<key>xHeight</key>
+	<integer>700</integer>
+</dict>
+</plist>

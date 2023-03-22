@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="e" format="2">
+	<advance width="800"/>
+	<unicode hex="0065"/>
+	<unicode hex="00E8"/>
+	<unicode hex="00E9"/>
+	<unicode hex="00EA"/>
+	<unicode hex="00EB"/>
+	<note>
+		e
+	</note>
+	<outline>
+		<contour>
+			<point x="239" y="575" type="curve" smooth="yes"/>
+			<point x="750" y="575" type="line"/>
+			<point x="750" y="700" type="line"/>
+			<point x="239" y="700" type="line" smooth="yes"/>
+			<point x="135" y="700"/>
+			<point x="51" y="615"/>
+			<point x="51" y="511" type="curve" smooth="yes"/>
+			<point x="51" y="189" type="line" smooth="yes"/>
+			<point x="51" y="85"/>
+			<point x="135" y="0"/>
+			<point x="239" y="0" type="curve" smooth="yes"/>
+			<point x="750" y="0" type="line"/>
+			<point x="750" y="125" type="line"/>
+			<point x="239" y="125" type="line" smooth="yes"/>
+			<point x="204" y="125"/>
+			<point x="175" y="154"/>
+			<point x="175" y="189" type="curve" smooth="yes"/>
+			<point x="175" y="321" type="line"/>
+			<point x="625" y="321" type="line"/>
+			<point x="625" y="446" type="line"/>
+			<point x="175" y="446" type="line"/>
+			<point x="175" y="511" type="line" smooth="yes"/>
+			<point x="175" y="546"/>
+			<point x="204" y="575"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2023-02-02 13:06:15 +0000</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,25 +1,40 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
+import React from "react";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import Socials from "./components/Socials";
+import Footer from "./components/Footer";
+import Header from "./components/Header";
+import Home from "./Pages/Home";
+import LegalsNotices from "./Pages/LegalsNotices";
+import ScrollToTop from "./components/ScrollToTop";
+import Error from "./Pages/Error";
+import ThemeProvider from "./context/ThemeContext";
+import LanguageProvider from "./context/LanguageContext";
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+	return (
+		<Router>
+			<ThemeProvider>
+				<LanguageProvider>
+					<ScrollToTop />
+					<div className="overflow-hidden 2xl:overflow-visible">
+						<Header />
+						<Socials />
+						<Routes>
+							<Route path="/" exact element={<Home />}></Route>
+							<Route
+								path="/mentions-légales"
+								exact
+								element={<LegalsNotices />}
+							></Route>
+							<Route path="*" element={<Error />}></Route>
+						</Routes>
+						<Footer />
+					</div>
+				</LanguageProvider>
+			</ThemeProvider>
+		</Router>
+	);
 }
 
 export default App;
